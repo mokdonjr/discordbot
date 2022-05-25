@@ -1,0 +1,17 @@
+discord:
+  seungchan-kaura-app:
+    application-id: 975935227870461952
+    public-key: 222794f52aa97797a60b12a9050b0781c97f29a62fadeb13d981ac49ec8ae77e
+    oauth2:
+      client-id: 975935227870461952
+      client-secret: p9WbSvSU-o-uEbhoeAaPV_ZgDJOKEJUZ
+    bot:
+      name: spring--bot#1518
+      token: OTc1OTM1MjI3ODcwNDYxOTUy.GGwmkU.fHeffwOMxSlYsdFlqcmTc4wYNRWUxGCfLViilA
+      # https://discord.com/api/oauth2/authorize?client_id=975935227870461952&permissions=2147485696&scope=bot%20applications.commands
+
+twitter:
+  seungchan-kaura-app:
+    api-key: Lhidu7Sdj4lb4DtXKgXixj5V4
+    api-key-secret: G3O4y9sZX6UMt5rpuq4EsIJDuRuWmUGG0fmq7O8sjVFNdKwNZ3
+    bearer-token: AAAAAAAAAAAAAAAAAAAAAO7lcwEAAAAAsquCYDpH6HVSCf0itlG%2FisYIhDI%3D2KBqCreOWCnpn1VT2t70S1JNj29SC3qLeBNg223R8Mpe66Eidu
